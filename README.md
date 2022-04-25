@@ -1,2 +1,2 @@
 # SpaceY
-ibm pro data science certification project
+my ibm data science certification project
