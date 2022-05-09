@@ -1,2 +1,2 @@
 # SpaceY
-ibm data science certification project
+IBM Data Science Certification final project.
